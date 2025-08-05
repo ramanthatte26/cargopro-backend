@@ -1,0 +1,50 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.class
+*.jar
+*.war
+*.ear
+
+# Lombok generated files (optional)
+lombok.config
+
+# Spring Boot specific
+spring-boot-devtools.properties
+
+# Eclipse
+.metadata/
+*.tmp
+*.bak
+*.swp
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+.nbm/
+
+# IntelliJ
+out/
+
+# Others
+*.env
+mvnw.cmd
+mvnw
