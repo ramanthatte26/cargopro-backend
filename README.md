@@ -169,5 +169,3 @@ For feedback or queries, feel free to reach out via GitHub or open an issue.
 Thank you for checking out **Cargopro Backend**!
 
 ---
-
-_End of README_ ✅
